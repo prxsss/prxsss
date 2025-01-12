@@ -1,4 +1,4 @@
-## Hi There! 👋
+## About Me
 I am an enthusiastic Computer Science student at KUSRC with a passion for learning and a strong foundation in programming, always eager to tackle new challenges. Seeking an opportunity to use my knowledge of computer
  skills in real industry and passion for furthering a company's mission.
 
