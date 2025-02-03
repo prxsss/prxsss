@@ -12,4 +12,4 @@ I am an enthusiastic Computer Science student at KUSRC with a passion for learni
 <div > <a href="https://github.com/anuraghazra/github-readme-stats"> <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=prxsss&show_icons=true&theme=tokyonight" /> </a> <a href="https://github.com/anuraghazra/convoychat"> <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prxsss&layout=compact&langs_count=8&card_width=320&theme=tokyonight" /> </a> </div>
 
 ## 🛠️ Languages and Tools
-<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,python,java,dart,c,cpp,cs,react,nextjs,vue,tailwind,pinia,zustand,nodejs,express,fastapi,flutter,mongodb,postgres,git,github,vim,postman,powershell" alt="Languages and Tools" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,java,dart,c,cpp,cs,react,nextjs,vue,tailwind,pinia,zustand,nodejs,express,fastapi,flutter,mongodb,postgres,git,github,vim,postman,powershell" alt="Languages and Tools" />
