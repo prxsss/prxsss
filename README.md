@@ -51,11 +51,9 @@ I'm Phuriphat (Proster)
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/ed088420-16f1-46c7-b9e9-e2e6408a0300)
 [![AWS re/Start Graduate](https://images.credly.com/size/80x80/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png)](https://www.credly.com/badges/e05bb22d-3cb9-4d29-8c6f-2ed7c0e68d63)
 [![2025 Proofpoint Certified Email Authentication Specialist](https://images.credly.com/size/80x80/images/b8b9dd0b-df35-4d69-b5dc-7a414fffa7f7/blob)](https://www.credly.com/badges/4da8f273-dc7b-47b5-82fe-48552236994a)
-
 <!--END_SECTION:badges-->
 
 Find all [my badges on Credly.com](https://www.credly.com/users/prxsss/badges).
